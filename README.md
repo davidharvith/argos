@@ -59,7 +59,7 @@ High-performance real-time log anomaly detector built in Go. Features concurrent
 ## Installation
 
 ### Prerequisites
-- Go 1.16 or later
+- Go 1.24 or later
 - Python 3.7+ (for log generator)
 
 ### Build
